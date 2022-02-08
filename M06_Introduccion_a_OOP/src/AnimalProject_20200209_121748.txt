@@ -1,3 +1,0 @@
-ERROR - 12:17:48: org.xml.sax.SAXParseExceptionpublicId: /AnimalProject/src/animal/Animal.java; systemId: file:///AnimalProject/src/animal/Animal.java; lineNumber: 1; columnNumber: 1; Content is not allowed in prolog.
-ERROR - 12:17:48: org.xml.sax.SAXParseExceptionpublicId: /AnimalProject/src/animal/Animal.java; systemId: file:///AnimalProject/src/animal/Animal.java; lineNumber: 1; columnNumber: 1; Content is not allowed in prolog.
-ERROR - 12:18:17: java.net.MalformedURLException: unknown protocol: pathmap
