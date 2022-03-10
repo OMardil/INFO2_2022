@@ -1,3 +1,0 @@
-0: Hello
-1: how
-2: are you?
